@@ -9,4 +9,4 @@ SQLite
 ## 📌 Мои проекты:
 [Telegram бот с мини-играми] (
 [Мини-игра в Pygame] (
-[Flask API для блога] (
+[Flask API для блога] (https://github.com/IAleksei-EfimovI/Repository2/blob/main/main.py)
